@@ -1,0 +1,36 @@
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe.config
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.pdb
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Form1.resources
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.exe
+D:\UTN.FRA\2 cuatrimestre\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.pdb
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe.config
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.exe
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.pdb
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.pdb
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Form1.resources
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+E:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe.config
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.exe
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.pdb
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Form1.resources
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe
+F:\C#\Laboratorio II\Trabajos.Practicos\TP_1\bin\Debug\TP_1.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe.config
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.exe
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\bin\Debug\TP_1.exe
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\bin\Debug\TP_1.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Form1.resources
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
