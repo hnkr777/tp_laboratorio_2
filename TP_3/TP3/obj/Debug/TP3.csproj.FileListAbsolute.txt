@@ -1,0 +1,20 @@
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\bin\Debug\TP3.exe.config
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\bin\Debug\TP3.exe
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\bin\Debug\TP3.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\obj\Debug\TP3.csprojResolveAssemblyReference.cache
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\obj\Debug\TP3.exe
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\TP3\obj\Debug\TP3.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\TP3.exe.config
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\TP3.exe
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\TP3.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Archivos.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Clases Abstractas.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Clases Instanciables.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Archivos.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Clases Abstractas.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Clases Instanciables.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\bin\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\obj\Debug\TP3.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\obj\Debug\TP3.exe
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\TP3\obj\Debug\TP3.pdb
