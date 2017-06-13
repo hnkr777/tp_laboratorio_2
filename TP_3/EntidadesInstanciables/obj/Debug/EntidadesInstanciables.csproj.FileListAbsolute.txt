@@ -1,0 +1,11 @@
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

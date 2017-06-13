@@ -1,0 +1,12 @@
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Archivos\bin\Debug\Archivos.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Archivos\obj\Debug\Archivos.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\bin\Debug\Archivos.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\bin\Debug\Archivos.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\bin\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\bin\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\obj\Debug\Archivos.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Archivos\obj\Debug\Archivos.pdb

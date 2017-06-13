@@ -1,0 +1,9 @@
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Clases Abstractas.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Clases Abstractas.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Archivos.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Archivos.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\obj\Debug\Clases Abstractas.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesAbstractas\obj\Debug\Clases Abstractas.pdb

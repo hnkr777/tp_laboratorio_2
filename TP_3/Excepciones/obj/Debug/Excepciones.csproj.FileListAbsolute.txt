@@ -1,0 +1,9 @@
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\C#\Trabajos.Practicos\TP_3___\Honeker.Federico.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Excepciones\bin\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Excepciones\bin\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Excepciones\obj\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\Excepciones\obj\Debug\Excepciones.pdb

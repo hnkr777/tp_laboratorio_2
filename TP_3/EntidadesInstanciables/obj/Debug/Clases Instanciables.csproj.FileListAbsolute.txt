@@ -1,0 +1,11 @@
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Clases Instanciables.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Clases Instanciables.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Clases Abstractas.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Archivos.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Clases Abstractas.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\obj\Debug\Clases Instanciables.dll
+D:\UTN.FRA\2 cuatrimestre\Trabajos.Practicos\TP_3\TP 3 version final by fede\EntidadesInstanciables\obj\Debug\Clases Instanciables.pdb
